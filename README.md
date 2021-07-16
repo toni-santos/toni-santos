@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11137900706&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
+<p align="center">
+	[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11137900706&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+</p>
 
 <!--
 **toni-santos/toni-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
