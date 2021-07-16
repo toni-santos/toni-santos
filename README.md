@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11137900706&cover_image=true&theme=novatorem&align=center)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11137900706&cover_image=true&theme=novatorem)align=center](https://github.com/kittinan/spotify-github-profile)
 
 
 <!--
