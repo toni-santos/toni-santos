@@ -3,16 +3,12 @@
 ------------------------------
 
 ### now bumping...
-<p align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11137900706&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
-</p>
 
 ------------------------------
 
 ### about me...
-<p align="center">
 
 ```css
 toni-santos{
@@ -24,7 +20,6 @@ toni-santos{
 	year: 2nd
 }
 ```
-</p>
 ------------------------------
 
 ### technologies
