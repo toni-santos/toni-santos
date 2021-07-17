@@ -25,9 +25,10 @@ toni-santos{
 
 ### technologies
 
-#os
+##os
+<bl>
 <img src="https://img.shields.io/badge/OS-Arch%20Linux-informational?style=flat&logo=arch%20linux&logoColor=white&color=7ee787">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&color=7ee787">
+<img src="https://img.shields.io/badge/Windows-0078D6-informational?style=flat&logo=windows&logoColor=white&color=7ee787">
 
 
 <!--
