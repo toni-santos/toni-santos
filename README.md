@@ -27,7 +27,7 @@ toni-santos{
 
 <h2>os</p>
 <img src="https://img.shields.io/badge/OS-Arch%20Linux-informational?style=flat&logo=arch%20linux&logoColor=white&color=7ee787">
-<img src="https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=7ee787">
+<img src="https://img.shields.io/badge/Windows-0078D6-informational?style=flat&logo=windows&logoColor=white&color=7ee787">
 
 
 <!--
