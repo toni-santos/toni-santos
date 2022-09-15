@@ -11,13 +11,13 @@
 ### about me...
 
 ```css
-toni-santos{
+toni-santos {
 	pronouns: any
 	age: 19
 	from: portugal
 	studying: informatics and computation
 	@: feup
-	year: 2nd
+	year: 3rd
 }
 ```
 ------------------------------
