@@ -13,11 +13,12 @@
 ```css
 toni-santos {
 	pronouns: any
-	age: 19
+	age: 21
 	from: portugal
 	studying: informatics and computation
 	@: feup
-	year: 3rd
+	year: 1st
+	level: master's
 }
 ```
 ------------------------------
