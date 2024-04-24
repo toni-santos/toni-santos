@@ -4,7 +4,7 @@
 
 ### now bumping...
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11137900706&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+![Currently listening to](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=n4gi7o&theme=dark&show_scrobbles=true)
 
 ------------------------------
 
