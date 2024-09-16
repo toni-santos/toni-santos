@@ -13,7 +13,7 @@
 ```css
 toni-santos {
 	pronouns: any
-	age: 21
+	age: 22
 	from: portugal
 	studying: informatics and computation
 	@: feup
