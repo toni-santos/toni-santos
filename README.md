@@ -17,7 +17,7 @@ toni-santos {
 	from: portugal
 	studying: informatics and computation
 	@: feup
-	year: 1st
+	year: 2nd
 	level: master's
 }
 ```
