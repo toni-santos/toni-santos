@@ -12,13 +12,13 @@
 
 ```css
 toni-santos {
-	pronouns: any
-	age: 22
-	from: portugal
-	studying: informatics and computation
-	@: feup
-	year: 2nd
-	level: master's
+	pronouns: any;
+	age: 22;
+	from: portugal;
+	studying: informatics and computation;
+	@: feup;
+	year: 2nd;
+	level: master's;
 }
 ```
 ------------------------------
